@@ -1,21 +1,32 @@
 // Inicializar una variable con un valor
-var producto = "Monitos de 24 Pulgadas";
+var producto = "Monitores de 24 Pulgadas";
 console.log(producto);
 
-// Las variables se pueden reacsignar
-producto = "Monitos de 19 Pulgadas";
+// Las variables se pueden reasignar
+producto = "Monitores de 19 Pulgadas";
 console.log(producto);
 
-//JavaScrip  es un lenguaje de tipo dinamico, no se especifica tipo de datso
+// JavaScript es un lenguaje de tipo dinámico, no se especifica tipo de dato
 producto = 20;
 console.log(producto);
 
-//se peuden inicializar sin valor y asignar despues
+// Se pueden inicializar sin valor y asignar después
 var disponible;
 disponible = true;
 console.log(disponible);
 
-//Inicializar multiple variables
-var categoria = "Computadoras";
-var marca = "Marca famosa";
-var calificaciones = 5;
+// Inicializar múltiples variables
+var categoria = "Computadoras",
+  marca = "Marca Famosa",
+  calificaciones = 5;
+
+// Las variables no pueden iniciar con números
+// var 01_; // Esto causará un error
+var _01; // Válido
+var _usuario; // Válido
+var __usuario; // Válido
+
+// Estilos de nombres de variables
+var nombreProducto; // Camel Case
+var nombre_producto_categoria_precio; // Snake Case
+var NombreProducto; // Pascal Case
