@@ -9,5 +9,5 @@ if (boolean1) {
   console.log("no, no es true");
 }
 
-//El c+¦digo anterior es f+ícil de leer no?, pero se puede simplificar un poco m+ís
+//El codigo anterior es f+ícil de leer no?, pero se puede simplificar un poco m+ís
 console.log(boolean1 ? "Si es true" : "No no es true");
