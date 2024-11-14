@@ -1,19 +1,17 @@
-//object literal
 const producto = {
-  nombre: "Monitor de 20 Pulgadas",
+  nombre: "Monitor de 24 Pulgadas",
   precio: 300,
   disponible: true,
+  informacion: {
+    medidas: {
+      peso: "1kg",
+      medida: "ml",
+    },
+    fabricacion: {
+      pais: "China",
+    },
+  },
 };
 
-//object contructor
-function Producto(nombre, precio) {
-  this.nombre = nombre;
-  this.precio = precio;
-  this.disponible = true;
-}
-
-const producto2 = new Producto("Monitor 24 pulgadas", 500);
-console.log(producto2);
-
-const producto3 = new Producto("Television", 100);
-console.log(producto3);
+console.log(prozducto);
+console.log(producto.informacion.fabricacion.pais);
