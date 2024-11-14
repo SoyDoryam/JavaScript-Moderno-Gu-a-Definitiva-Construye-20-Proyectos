@@ -87,6 +87,30 @@ Este roadmap detalla el contenido del curso, organizado por secciones para facil
 
 ---
 
+### 7. **Manejo de Objetos en JavaScript** 🧩
+
+1. 📦 **Crear Objetos en JavaScript**
+2. 🔍 **Cómo Acceder a los Valores de un Objeto**
+3. ➕ **Agregar o Eliminar Propiedades de un Objeto**
+4. 🧩 **Destructuring de Objetos**
+5. 🔗 **Objetos dentro de Objetos**
+6. 🧩 **Destructuring de Objetos Anidados**
+7. ⚠️ **El Problema con los Objetos**
+8. ❄️ **Congelar un Objeto (`Object.freeze`)**  
+   _Nota: `Object.freeze` permite evitar que un objeto sea modificado, asegurando su integridad._
+9. 🔒 **Sellar un Objeto (`Object.seal`)**  
+   _Nota: `Object.seal` permite modificar las propiedades existentes, pero evita añadir o eliminar propiedades._
+10. 📄 **Copiar Objetos (`Object.assign` y Spread Operator)**  
+    _Nota: `Object.assign` y el operador de propagación (`...`) son útiles para clonar y combinar objetos de manera sencilla._
+11. 🔄 **El Contexto de `this` en Objetos**  
+    _Nota: `this` hace referencia al contexto en el que se está ejecutando una función, siendo clave para acceder a propiedades de un objeto desde dentro de sus métodos._
+12. 🔧 **Funciones en Objetos y Acceso a sus Valores**
+13. 🔨 **El Constructor `Object`**
+14. 🔑 **Métodos de `Object` - `.keys`, `.values` y `.entries`**  
+    _Nota: Estos métodos son útiles para obtener claves, valores y pares clave-valor de un objeto en un arreglo._
+
+---
+
 Este roadmap te guiará a lo largo del curso, permitiéndote aprender JavaScript de manera organizada y progresiva. ¡Sigue cada sección para avanzar en tu dominio de este lenguaje!
 
 
