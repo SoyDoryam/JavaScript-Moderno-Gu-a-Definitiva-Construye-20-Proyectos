@@ -128,6 +128,7 @@ Este roadmap detalla el contenido del curso, organizado por secciones para facil
 9. 🔄 **`.forEach` para Iterar un Array**  
    _Nota: Diferencias entre `for` y `forEach`._
 10. 🔄 **`.map` para Iterar un Array y sus Diferencias con `forEach`**
+    _Nota: A diferencia de `forEach`, `.map` crea un nuevo array sin modificar el original, permitiendo transformaciones en sus elementos sin afectar el array original._
 
 ---
 
