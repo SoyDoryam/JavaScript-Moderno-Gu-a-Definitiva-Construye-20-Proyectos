@@ -15,6 +15,7 @@ const producto3 = {
   precio: 20,
 };
 
+//forma imerativa
 let resultado = [...carrito, producto];
 resultado = [...resultado, producto2];
 resultado = [producto3, ...resultado];
