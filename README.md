@@ -111,6 +111,26 @@ Este roadmap detalla el contenido del curso, organizado por secciones para facil
 
 ---
 
+### 8. **Arrays en JavaScript** 📋
+
+1. 📋 **Crear Arrays en JavaScript**
+2. 🔍 **Acceder a los Valores de un Array**
+3. 🔄 **Recorrer un Array**
+4. ➕ **Agregar Nuevos Valores a un Array**
+5. 🔄 **Añadir Elementos al Final o Inicio de un Array**  
+   _Nota: Imperativa (`push`, `unshift`): estos métodos modifican el array original._
+6. ➕ **Crear un Nuevo Array con el Spread Operator**  
+   _Nota: Comparación entre enfoques imperativos y declarativos._
+7. ✂️ **Eliminar Elementos con `splice`**  
+   _Nota: `splice` es imperativo, ya que modifica el objeto actual; declarativo no modifica el objeto original._
+8. 🧩 **Destructuring de Arrays**  
+   _Nota: Se pueden asignar nombres personalizados a las variables resultantes._
+9. 🔄 **`.forEach` para Iterar un Array**  
+   _Nota: Diferencias entre `for` y `forEach`._
+10. 🔄 **`.map` para Iterar un Array y sus Diferencias con `forEach`**
+
+---
+
 Este roadmap te guiará a lo largo del curso, permitiéndote aprender JavaScript de manera organizada y progresiva. ¡Sigue cada sección para avanzar en tu dominio de este lenguaje!
 
 
