@@ -130,6 +130,29 @@ Este roadmap detalla el contenido del curso, organizado por secciones para facil
 10. 🔄 **`.map` para Iterar un Array y sus Diferencias con `forEach`**
     _Nota: A diferencia de `forEach`, `.map` crea un nuevo array sin modificar el original, permitiendo transformaciones en sus elementos sin afectar el array original._
 
+---  
+
+### 9. **Funciones en JavaScript** 🔧  
+
+1. 🛠️ **Crear Funciones en JavaScript - `Function Expression` y `Function Declaration`**  
+2. 🔄 **La Diferencia entre `Function Expression` y `Function Declaration` (Hoisting)**  
+   _Nota: En la primera etapa, se crean las funciones; en la segunda, se ejecutan._  
+3. 🔍 **Algunas Funciones Nativas en JavaScript**  
+   _Nota: Diferencia entre Método y Función._  
+4. 🔗 **La Diferencia entre Función y Método**  
+5. 📝 **Parámetros y Argumentos en Funciones**  
+6. 🔧 **Parámetros por Default**  
+7. 📡 **Cómo se Comunican las Funciones**  
+8. 🛒 **Ejemplo con Múltiples Funciones que se Pasan Valores (Carrito de Compras)**  
+9. 🎵 **Añadir Funciones en un Objeto**  
+   _Nota: Simulando un reproductor de música._  
+10. ⚡ **Arrow Functions**  
+    _Nota: Diferencias entre `Arrow Function` y Función Tradicional._  
+11. ➕ **Las Ventajas de las Arrow Functions**  
+    _Nota: Uso con parámetros._  
+12. 🔄 **Arrow Functions en un `forEach` y un `map`**  
+13. 🎶 **Arrow Functions en el Reproductor de Música**  
+
 ---
 
 Este roadmap te guiará a lo largo del curso, permitiéndote aprender JavaScript de manera organizada y progresiva. ¡Sigue cada sección para avanzar en tu dominio de este lenguaje!
