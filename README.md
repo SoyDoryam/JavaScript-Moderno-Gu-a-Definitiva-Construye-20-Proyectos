@@ -153,6 +153,20 @@ Este roadmap detalla el contenido del curso, organizado por secciones para facil
 12. 🔄 **Arrow Functions en un `forEach` y un `map`**  
 13. 🎶 **Arrow Functions en el Reproductor de Música**  
 
+---  
+
+### 10. **Estructuras de Control** 🔀  
+
+1. 🛠️ **Creando un `if`**  
+2. 🔍 **Comparador Estricto**  
+3. 🔢 **Comparando Mayor o Menor Que**  
+4. 🔄 **Mayor o Igual y `else if`**  
+5. 🔀 **`Switch` para Evaluar Múltiples Condiciones**  
+6. 🔗 **El Operador `&&` para Revisar que se Cumplan 2 o Más Condiciones**  
+7. ✅ **El Operador `||` para que se Cumpla al Menos Una Condición**  
+8. ⛔ **Detener la Ejecución de un `if` con una Función**  
+9. ⚡ **El Operador Ternario**  
+
 ---
 
 Este roadmap te guiará a lo largo del curso, permitiéndote aprender JavaScript de manera organizada y progresiva. ¡Sigue cada sección para avanzar en tu dominio de este lenguaje!
